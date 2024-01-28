@@ -1,0 +1,4 @@
+Installing this is still a bit of a mess.. I'll try to clean that up soon..
+
+You'll need to make sure dependencies are installed
+	make dep
