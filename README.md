@@ -10,19 +10,19 @@ You should probably use this this:
 	git submodule init; git submodule pull
 
 Then chose your language,etc in config.mk LANG:
- 	make config.mk
+- joe config.mk
 
 Either build your voices (requires AWS or google cloud account):
-	make voices
+ make voices
 *OR*
-	make fetch-voices
+- make fetch-voices
 
 If successfully download all needed things, install dependencies:
-	make dep
+- make dep
 
 
 If success, install
-	make install
+- make install
 
 Set up appropriate startup script (rc.local or whatever) and enjoy!
 
