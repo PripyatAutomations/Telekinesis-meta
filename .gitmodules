@@ -1,0 +1,3 @@
+[submodule "clients/rustyrigs"]
+	path = clients/rustyrigs
+	url = https://github.com/PripyatAutomations/rustyrigs
