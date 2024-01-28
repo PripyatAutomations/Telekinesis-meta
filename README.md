@@ -1,13 +1,14 @@
 # Telekinesis-meta
 This is a metapackage pulling down *ALL* components of Telekinesis, excluding voice translations.
 
-Those are in Telekinesis-sample-voices which can be fetched with 'make download'
+Those are in Telekinesis-sample-voices which can be fetched with:
+- make download
 
 You should probably use this this:
-	git clone --recurse-submodules  https://github.com/PripyatAutomations/Telekinesis-meta
+- git clone --recurse-submodules  https://github.com/PripyatAutomations/Telekinesis-meta
 
--- If you forgot --recurse-submodules:
-	git submodule init; git submodule pull
+But If you forgot --recurse-submodules:
+- git submodule init; git submodule pull
 
 Then chose your language,etc in config.mk LANG:
 - joe config.mk
