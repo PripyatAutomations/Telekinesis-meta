@@ -25,7 +25,8 @@ If success, install
 Set up appropriate startup script (rc.local or whatever) and enjoy!
 
 
-- Expect bugs as this is an early public release of the mess i use internally ;)
+Expect bugs as this is an early public release of the mess i use internally ;)
+I'll try to test things as best as possible on other machines, but please do
+report all bugs/suggestions/feature requests via github or IRC!
 
-- ~ rustyaxe
-- 
+ ~ rustyaxe 

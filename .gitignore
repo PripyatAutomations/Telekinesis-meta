@@ -33,3 +33,6 @@ inc/
 /MANIFEST.bak
 /pm_to_blib
 /*.zip
+
+# external bits that will come from submodules
+services/voice/

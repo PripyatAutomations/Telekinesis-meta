@@ -4,3 +4,12 @@
 [submodule "service"]
 	path = service
 	url = https://github.com/PripyatAutomations/Telekinesis-server.git
+[submodule "www-addons/splatweb"]
+	path = www-addons/splatweb
+	url = https://github.com/PripyatAutomations/splatweb.git
+[submodule "www-addons/ulsweb"]
+	path = www-addons/ulsweb
+	url = https://github.com/PripyatAutomations/ulsweb.git
+[submodule "www-addons/rmsmap"]
+	path = www-addons/rmsmap
+	url = https://github.com/PripyatAutomations/rmsmap.git
