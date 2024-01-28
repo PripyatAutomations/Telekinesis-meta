@@ -1,3 +1,6 @@
 [submodule "clients/rustyrigs"]
 	path = clients/rustyrigs
 	url = https://github.com/PripyatAutomations/rustyrigs
+[submodule "service"]
+	path = service
+	url = https://github.com/PripyatAutomations/Telekinesis-server.git
