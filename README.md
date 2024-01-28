@@ -12,8 +12,10 @@ You should probably use this this:
 Then chose your language,etc in config.mk LANG:
  	make config.mk
 
-Then run:
-	make download
+Either build your voices (requires AWS or google cloud account):
+	make voices
+*OR*
+	make fetch-voices
 
 If successfully download all needed things, install dependencies:
 	make dep
