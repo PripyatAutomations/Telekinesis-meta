@@ -35,4 +35,4 @@ inc/
 /*.zip
 
 # external bits that will come from submodules
-services/voice/
+services/voices/
