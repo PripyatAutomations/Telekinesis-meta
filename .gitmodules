@@ -13,3 +13,42 @@
 [submodule "www-addons/rmsmap"]
 	path = www-addons/rmsmap
 	url = https://github.com/PripyatAutomations/rmsmap.git
+[submodule "third-party/svxlink"]
+	path = third-party/svxlink
+	url = https://github.com/sm0svx/svxlink.git
+[submodule "third-party/ardop-modems"]
+	path = third-party/ardop-modems
+	url = https://github.com/PripyatAutomations/ardop-hamlib.git
+[submodule "gateway/mod_hamradio"]
+	path = gateway/mod_hamradio
+	url = https://github.com/PripyatAutomations/mod_hamradio.git
+[submodule "third-party/libks"]
+	path = third-party/libks
+	url = https://github.com/signalwire/libks.git
+[submodule "third-party/libstirshaken"]
+	path = third-party/libstirshaken
+	url = https://github.com/signalwire/libstirshaken.git
+[submodule "gateway/freeswitch"]
+	path = third-party/freeswitch
+	url = https://github.com/signalwire/freeswitch.git
+[submodule "third-party/libilbc"]
+	path = third-party/libilbc
+	url = https://github.com/signalwire/libilbc.git
+[submodule "third-party/signalwire-c"]
+	path = third-party/signalwire-c
+	url = https://github.com/signalwire/signalwire-c.git
+[submodule "third-party/mod_morse"]
+	path = third-party/mod_morse
+	url = https://github.com/signalwire/mod_morse.git
+[submodule "third-party/sofia-sip"]
+	path = third-party/sofia-sip
+	url = https://github.com/signalwire/sofia-sip.git
+[submodule "third-party/asterisk"]
+	path = third-party/asterisk
+	url = https://github.com/asterisk/asterisk.git
+[submodule "third-party/spandsp"]
+	path = third-party/spandsp
+	url = https://github.com/freeswitch/spandsp.git
+[submodule "third-party/Hamlib"]
+	path = third-party/Hamlib
+	url = https://github.com/Hamlib/Hamlib.git

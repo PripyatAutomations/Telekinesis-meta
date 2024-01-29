@@ -1,0 +1,31 @@
+Here we pull in third party sources needed to build telekinesis.
+
+	ardop-modems		- Provide ARDOP modems for winlink mail
+	asterisk		- Provides core voice functionality on host PC
+	freeswitch		- Used for gateways (if needed)
+	Hamlib			- Used for rig control
+	libilbc
+	libks
+	libstirshaken
+	mod_morse		- Freeswitch morse support
+	signalwire-c
+	sofia-sip
+	spandsp			- various DSP stuff
+	svxlink			- Support for Echolink
+
+Additional third party software is used, but the host OS version should suffice:
+	nginx
+	perl
+	baresip
+	devscripts
+	dh-make-perl
+
+
+Third party perl modules from apt/cpan (not included here):
+	libgtk3-perl
+	libglib-perl
+	libyaml-perl
+	libhamlib-perl	*** We build our own version ***
+	libexpect-perl
+ 	libperl-critic-perl
+	libperl-critic-community-perl 
