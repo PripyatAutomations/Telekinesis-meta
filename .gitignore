@@ -36,3 +36,4 @@ inc/
 
 # external bits that will come from submodules
 services/voices/
+services/voices/*
