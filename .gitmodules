@@ -52,3 +52,6 @@
 [submodule "third-party/Hamlib"]
 	path = third-party/Hamlib
 	url = https://github.com/Hamlib/Hamlib.git
+[submodule "third-party/ft8_lib"]
+	path = third-party/ft8_lib
+	url = https://github.com/kgoba/ft8_lib.git
