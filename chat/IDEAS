@@ -1,0 +1,8 @@
+* Like IRC but with priorities for messages (low, routine, priority, urgent)
+* Tree based mesh
+* A good effort should be made to send the message to all channel members
+  - Send via IP if connected, first
+  - Send via RF directly, if possible
+  - Send via RF multi-hop using routing from last-heard data in the DHT
+* Censor out bad words and replace them with tokens that can be expanded at client end.
+* Allow store and forward for messages of a minimum priority

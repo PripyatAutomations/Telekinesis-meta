@@ -55,3 +55,24 @@
 [submodule "third-party/ft8_lib"]
 	path = third-party/ft8_lib
 	url = https://github.com/kgoba/ft8_lib.git
+[submodule "third-party/tncattach"]
+	path = third-party/tncattach
+	url = https://github.com/markqvist/tncattach.git
+[submodule "third-party/direwolf"]
+	path = third-party/direwolf
+	url = https://github.com/wb2osz/direwolf.git
+[submodule "third-party/libax25"]
+	path = third-party/libax25
+	url = git://linux-ax25.in-berlin.de/pub/scm/libax25
+[submodule "third-party/ax25-apps"]
+	path = third-party/ax25-apps
+	url = git://linux-ax25.in-berlin.de/pub/scm/ax25-apps
+[submodule "third-party/ax25-tools"]
+	path = third-party/ax25-tools
+	url = git://linux-ax25.in-berlin.de/pub/scm/ax25-tools
+[submodule "third-party/splat"]
+	path = third-party/splat
+	url = https://github.com/hoche/splat.git
+[submodule "third-party/hf"]
+	path = third-party/hf
+	url = https://github.com/DavidGriffith/hf.git
