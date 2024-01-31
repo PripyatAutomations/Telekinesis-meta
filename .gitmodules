@@ -76,3 +76,69 @@
 [submodule "third-party/hf"]
 	path = third-party/hf
 	url = https://github.com/DavidGriffith/hf.git
+[submodule "third-party/ngham"]
+	path = third-party/ngham
+	url = https://github.com/skagmo/ngham.git
+[submodule "third-party/mrefd"]
+	path = third-party/mrefd
+	url = https://github.com/n7tae/mrefd.git
+[submodule "third-party/mvoice"]
+	path = third-party/mvoice
+	url = https://github.com/n7tae/mvoice.git
+[submodule "third-party/M17Gateway"]
+	path = third-party/M17Gateway
+	url = https://github.com/g4klx/M17Gateway.git
+[submodule "third-party/openBCM"]
+	path = third-party/openBCM
+	url = https://github.com/oe5hpm/openBCM
+[submodule "third-party/M17Client"]
+	path = third-party/M17Client
+	url = https://github.com/g4klx/M17Client.git
+[submodule "third-party/ref-dash"]
+	path = third-party/ref-dash
+	url = https://github.com/M17-Project/ref-dash.git
+[submodule "third-party/urfd"]
+	path = third-party/urfd
+	url = https://github.com/nostar/urfd.git
+[submodule "third-party/m17-tools"]
+	path = third-party/m17-tools
+	url = https://github.com/M17-Project/m17-tools.git
+[submodule "third-party/gr-m17"]
+	path = third-party/gr-m17
+	url = https://github.com/M17-Project/gr-m17.git
+[submodule "third-party/libm17"]
+	path = third-party/libm17
+	url = https://github.com/M17-Project/libm17.git
+[submodule "third-party/freedv-gui"]
+	path = third-party/freedv-gui
+	url = https://github.com/drowe67/freedv-gui.git
+[submodule "third-party/codecserver"]
+	path = third-party/codecserver
+	url = https://github.com/jketterl/codecserver.git
+[submodule "third-party/codecserver-softmbe"]
+	path = third-party/codecserver-softmbe
+	url = https://github.com/knatterfunker/codecserver-softmbe.git
+[submodule "third-party/csdr"]
+	path = third-party/csdr
+	url = https://github.com/jketterl/csdr.git
+[submodule "third-party/digiham"]
+	path = third-party/digiham
+	url = https://github.com/jketterl/digiham.git
+[submodule "third-party/n0ary-bbs"]
+	path = third-party/n0ary-bbs
+	url = https://github.com/ke6jjj/n0ary-bbs.git
+[submodule "third-party/openwebrx"]
+	path = third-party/openwebrx
+	url = https://github.com/jketterl/openwebrx.git
+[submodule "third-party/mbelib"]
+	path = third-party/mbelib
+	url = https://github.com/szechyjs/mbelib.git
+[submodule "third-party/freedv"]
+	path = third-party/freedv
+	url = https://github.com/guyt101z/freedv.git
+[submodule "third-party/freedv-lpcnet"]
+	path = third-party/freedv-lpcnet
+	url = https://github.com/drowe67/LPCNet.git
+[submodule "third-party/tqsl"]
+	path = third-party/tqsl
+	url = https://github.com/joecupano/tqsl.git
