@@ -142,3 +142,15 @@
 [submodule "third-party/tqsl"]
 	path = third-party/tqsl
 	url = https://github.com/joecupano/tqsl.git
+[submodule "third-party/linbpq"]
+	path = third-party/linbpq
+	url = https://github.com/g8bpq/linbpq.git
+[submodule "third-party/rmsgw"]
+	path = third-party/rmsgw
+	url = https://github.com/nwdigitalradio/rmsgw.git
+[submodule "third-party/tnt"]
+	path = third-party/tnt
+	url = https://github.com/do2bbc/tnt.git
+[submodule "third-party/scd"]
+	path = third-party/scd
+	url = https://github.com/hb9gvd/scd.git
